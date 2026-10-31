@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QaTuQaTu
 - 👀 I’m interested in (programing)
-- 🌱 I’m currently learning (Python)
+- 🌱 I’m currently a SE student at PSUT university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (tuqamalkhatib@gmail.com)
 - 😄 Pronouns: ...
